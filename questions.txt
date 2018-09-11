@@ -1,6 +1,12 @@
 Why we need to use header file?
+To check the prototypes of the built-in functions. 
 What is the difference between header file and preprocessor directive?
+header files contain the prototypes of built-in function where as preprocessor statement invoke these library functions
 Why the main function have datatype int?
+The program should return an integer value.
 what is the meaning of void in the brackets of the function main?
+main function does not receive any parameters.
 what is the use of the character \n in the function printf?
+\n character indicates that after displaying the statement the cusior will point to the next line.
 why we need to have return statement in the program?
+return statement indicates the sucesful execution of the program.
