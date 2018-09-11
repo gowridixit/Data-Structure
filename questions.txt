@@ -1,0 +1,6 @@
+Why we need to use header file?
+What is the difference between header file and preprocessor directive?
+Why the main function have datatype int?
+what is the meaning of void in the brackets of the function main?
+what is the use of the character \n in the function printf?
+why we need to have return statement in the program?
